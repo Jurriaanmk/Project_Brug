@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Leds_aansturing",
+    "\\Leds_aansturing\\Leds_avr"
   ],
+  "SelectedNode": "\\Leds_aansturing\\Leds_avr\\Leds_avr.sln",
   "PreviewInSolutionExplorer": false
 }

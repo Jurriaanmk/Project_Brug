@@ -25,7 +25,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LEDBlink.c">
+    <ClCompile Include="Led_aansturing.c">
       <Filter>Source files</Filter>
     </ClCompile>
   </ItemGroup>

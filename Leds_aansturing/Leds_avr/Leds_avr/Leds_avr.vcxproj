@@ -45,7 +45,7 @@
   <ItemDefinitionGroup>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LEDBlink.c" />
+    <ClCompile Include="Led_aansturing.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="avr.props" />

@@ -1,0 +1,36 @@
+VisualGDB/Debug/LEDBlink.o: LEDBlink.c c:\sysgcc\avr\avr\include\avr\io.h \
+ c:\sysgcc\avr\avr\include\avr\sfr_defs.h \
+ c:\sysgcc\avr\avr\include\inttypes.h \
+ c:\sysgcc\avr\lib\gcc\avr\5.3.0\include\stdint.h \
+ c:\sysgcc\avr\avr\include\stdint.h \
+ c:\sysgcc\avr\avr\include\avr\iom2560.h \
+ c:\sysgcc\avr\avr\include\avr\iomxx0_1.h \
+ c:\sysgcc\avr\avr\include\avr\portpins.h \
+ c:\sysgcc\avr\avr\include\avr\common.h \
+ c:\sysgcc\avr\avr\include\avr\version.h \
+ c:\sysgcc\avr\avr\include\avr\fuse.h \
+ c:\sysgcc\avr\avr\include\avr\lock.h
+
+c:\sysgcc\avr\avr\include\avr\io.h:
+
+c:\sysgcc\avr\avr\include\avr\sfr_defs.h:
+
+c:\sysgcc\avr\avr\include\inttypes.h:
+
+c:\sysgcc\avr\lib\gcc\avr\5.3.0\include\stdint.h:
+
+c:\sysgcc\avr\avr\include\stdint.h:
+
+c:\sysgcc\avr\avr\include\avr\iom2560.h:
+
+c:\sysgcc\avr\avr\include\avr\iomxx0_1.h:
+
+c:\sysgcc\avr\avr\include\avr\portpins.h:
+
+c:\sysgcc\avr\avr\include\avr\common.h:
+
+c:\sysgcc\avr\avr\include\avr\version.h:
+
+c:\sysgcc\avr\avr\include\avr\fuse.h:
+
+c:\sysgcc\avr\avr\include\avr\lock.h:

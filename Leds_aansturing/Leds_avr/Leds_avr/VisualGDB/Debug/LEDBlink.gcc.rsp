@@ -1,0 +1,1 @@
+-mmcu=atmega2560 -ggdb -O0 -DDEBUG=1 -ffunction-sections -fdata-sections   -c "LEDBlink.c" -o "VisualGDB/Debug/LEDBlink.o" -MD -MP -MF "VisualGDB/Debug/LEDBlink.dep"

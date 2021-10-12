@@ -1,0 +1,1 @@
+-o ../VisualGDB/Debug/Leds_avr -Wl,-gc-sections -mmcu=atmega2560  -Wl,--start-group VisualGDB/Debug/LEDBlink.o -Wl,--end-group

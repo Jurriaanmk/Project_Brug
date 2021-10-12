@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leds_avr", "Leds_avr\Leds_avr.vcxproj", "{2348F431-FEA1-422D-953D-DB73F9401435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2348F431-FEA1-422D-953D-DB73F9401435}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{2348F431-FEA1-422D-953D-DB73F9401435}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{2348F431-FEA1-422D-953D-DB73F9401435}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{2348F431-FEA1-422D-953D-DB73F9401435}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0076E8F7-9B03-4090-AF89-F215095B33EF}
+	EndGlobalSection
+EndGlobal
